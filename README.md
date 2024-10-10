@@ -71,7 +71,7 @@ A classic Pong game built with Python's Turtle Graphics module! This two-player 
 
 ## 🤝 Contributing
 
-Contributions are welcome! Fork the repository, make your changes, and submit a pull request. Let's make this game even better together!
+Contributions are welcome! Fork the repository, make your changes, and submit a pull request. Let's make this game even better together!!
 
 ---
 
